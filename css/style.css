@@ -332,6 +332,9 @@ a {
 .logo-container {
     max-width: 200px;
 }
+.logo-container img {
+    width: 160px;
+}
 
 .divider {
     display: flex;
